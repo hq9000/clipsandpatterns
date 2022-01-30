@@ -1,8 +1,3 @@
----
-title: ClipsAndPatterns
----
-
-
 ## Releases
 
 ### Spontaneous Piano Episodes (2022)
