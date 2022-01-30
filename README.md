@@ -9,5 +9,16 @@ An album consisting of seven live recorded piano improvisations.
 
 
 ### Sounds For Developers (2019)
+
 ![image](https://user-images.githubusercontent.com/21345604/151690761-e0ade6eb-c221-46ce-b4ec-6245a499846d.png)
 
+Noise and harmony-based ambient constructs to keep software developers focused while working.
+
+- [yandex music](https://music.yandex.ru/album/9097141)
+
+### Beatport releases 2017-...
+
+- [256 years](https://www.beatport.com/track/256-years/14877582)
+- [It happens](https://www.beatport.com/track/it-happens/15976171)
+- [Acting Under Stress](https://www.beatport.com/track/acting-under-stress/15910852)
+- [Rainy Brutalism](https://www.beatport.com/track/rainy-brutalism/13563515)
