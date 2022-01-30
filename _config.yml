@@ -5,6 +5,7 @@ email: clipsandpatterns@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Decades-long music project of <a href="https://grechin.org">Sergey Grechin</a>. Contacts: bsv_2k@mail.ru, clipsandpatterns@gmail.com
 url: https://clipsandpatterns.com
+show_downloads: false
 # Build settings
 plugins:
   - jekyll-feed
