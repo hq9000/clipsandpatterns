@@ -1,5 +1,34 @@
 ## Releases
 
+### Inner Dimensions Single ((Rebellious, 2023)
+
+<img src="https://i.scdn.co/image/ab67616d00001e029e2433a6823b7777c9449e67" width="185" />
+
+- [listen on Spotify](https://open.spotify.com/track/0fJSta22pRINge6daR4FeC)
+
+
+### Keep Believing Single (ClipsAndPatterns, 2023)
+
+<img src="https://github.com/hq9000/hq9000/assets/21345604/61a2e133-4d20-4c5b-92af-54c79526d316" width="185" />
+
+- [listen on YouTube](https://www.youtube.com/watch?v=Df_CqtSErUE&t=4s)
+
+### In Your Eyes ClipsAndPatterns Remix (OrangeNoise, 2023)
+
+<img src="https://github.com/hq9000/hq9000/assets/21345604/cfc569a2-5ddf-49bc-92ca-185bde544e24" width="185">
+
+- [listen on YouTube](https://www.youtube.com/watch?v=oWmkmcaH8hI)
+
+
+### Cycles (Rebellious, 2023)
+
+<img src="https://user-images.githubusercontent.com/21345604/236631074-773aa36a-8040-4fe7-8c85-b77dae375ac2.png"  width="185">
+
+A mini-album of two progressive tracks.
+
+- [YouTube](https://www.youtube.com/watch?v=VeToogf4GWs)
+- [BeatPort](https://www.beatport.com/release/cycles/4081673)
+
 ### Spontaneous Piano Episodes (CakeMusic, 2022)
 ![image](https://user-images.githubusercontent.com/21345604/151690638-78a1cac3-53e5-4bce-a143-db3b7e8dab55.png)
 
